@@ -1,6 +1,6 @@
 import psycopg
 
-
+### Connexio amb la BBDD
 def client():
     
     conexio = """
